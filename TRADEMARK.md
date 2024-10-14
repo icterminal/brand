@@ -1,6 +1,6 @@
 # Trademark Notice
 
-The name "icterminal," along with its associated logos, fonts, color schemes, and branding elements as outlined in the [Brand Guidelines](path-to-your-brand-guidelines.pdf), are trademarks of icterminal.
+The name "icterminal," along with its associated logos, color schemes, and branding elements as outlined in the [Brand Guidelines](icterminal_branding_guidelines.pdf), are trademarks of icterminal.
 
 ## Trademarks Covered
 
